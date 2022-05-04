@@ -1,0 +1,67 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "lorem",
+      "date": "2022-05-04T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "iPhone 13",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "lorem",
+      "date": "2022-05-05T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "rgdf",
+      "date": "2022-05-05T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Kiwi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "rgdf",
+      "date": "2022-05-05T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Kiwi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "rgdf",
+      "date": "2022-05-05T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Kiwi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "rgdf",
+      "date": "2022-05-05T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Kiwi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "rgdf",
+      "date": "2022-05-05T22:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
